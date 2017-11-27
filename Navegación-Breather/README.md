@@ -12,7 +12,7 @@ _Footer - Navegación global_
 ![Breather](assets/images/footer-global-navigation.png)
 
     
-_Acerca - Navegación local_
+_Acerca - Navegación global_
 
 ![Breather](assets/images/company-navigation-local.png)
 
